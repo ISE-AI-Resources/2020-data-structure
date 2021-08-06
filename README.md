@@ -1,3 +1,3 @@
 # 2020-data-structure
-Exercises - Not graded
+Exercises - Not graded \n
 Homeworks - Graded
